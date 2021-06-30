@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+asdasdsa                           
+=======
+asdasdsa
+>>>>>>> parent of 469ac32 (Update New Text Document.txt)
